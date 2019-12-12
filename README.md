@@ -30,6 +30,7 @@ Travail par groupe de 4
 * Implémenter le data augmentation, évaluer
 * Identifier les hyper-paramètres les plus prometteurs pour une optimisation du CNN
 * Choisir une méthode d'optimisation des hyper-paramètres et l'appliquer à son modèles
+* INTERMEDE : utiliser la méthode k-NN pour classer le dataset (éventuellement après PCA) et établir une nouvelle baseline
 * Chercher des modèles pré-entraînés qui pourraient servir pour ce problème de classification
 * Réfléchir au périmètre d'architecture sur lequel appliquer le transfer learning
 * Appliquer à l'entraînement d'un modèle, évaluer convergence et performance des prédictions
